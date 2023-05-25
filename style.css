@@ -1,0 +1,8 @@
+.abc img {
+    transform: scale(4);
+}
+.abc{
+    text-align: center;
+    margin-top:150%;
+    margin-left: 50%;
+}
